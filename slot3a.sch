@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:Friden-130-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -7676,7 +7677,7 @@ Connection ~ 3800 11950
 Wire Wire Line
 	6600 11050 6650 11050
 Wire Wire Line
-	6650 10850 6650 11050
+	6650 11050 6650 10850
 Wire Wire Line
 	3000 10850 23000 10850
 Connection ~ 6650 10850

@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:Friden-130-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
