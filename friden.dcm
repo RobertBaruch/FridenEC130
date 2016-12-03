@@ -1,0 +1,119 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N1304
+D 50V Vce, 0.15A Ic, Low Noise Audio NPN Transistor, TO-92
+K Low Noise Audio NPN Transistor
+$ENDCMP
+#
+$CMP 2N1305
+D 30V Vcb, 25V Veb, 0.3A Ic, Ge PNP switching transistor
+K Switching PNP Transistor
+F https://www.digchip.com/datasheets/parts/datasheet/088/2N1305-pdf.php
+$ENDCMP
+#
+$CMP 2N2043
+D 105V Vcb, 75V Veb, 0.2A Ic, Ge PNP transistor
+K PNP Transistor
+F https://www.digchip.com/datasheets/parts/datasheet/009/2N2635-pdf.php
+$ENDCMP
+#
+$CMP 2N2635
+D 30V Vcb, 2V Veb, 0.1A Ic, Ge PNP switching transistor
+K Switching PNP Transistor
+F https://www.digchip.com/datasheets/parts/datasheet/009/2N2635-pdf.php
+$ENDCMP
+#
+$CMP 2N669
+D 40V Vce, 3A Ic, Ge PNP Power Transistor
+K PNP Power Transistor
+F http://pdf1.alldatasheet.com/datasheet-pdf/view/619934/NJSEMI/2N669.html
+$ENDCMP
+#
+$CMP 3AND
+D Discrete 3-input AND gate
+K and
+$ENDCMP
+#
+$CMP 3NAND
+D Discrete 3-input NAND gate
+K nand
+$ENDCMP
+#
+$CMP 4NAND
+D Discrete 4-input NAND gate
+K nand
+$ENDCMP
+#
+$CMP ADR5041B
+D 2.5v Precision Voltage Reference
+K voltage reference
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADR5040_5041_5043_5044_5045.pdf
+$ENDCMP
+#
+$CMP AND
+D Discrete AND gate
+K and
+$ENDCMP
+#
+$CMP BR
+D Diode bridge
+K Diode bridge
+$ENDCMP
+#
+$CMP BUF_AND
+D Discrete AND gate
+K and
+$ENDCMP
+#
+$CMP COUNTER-DPS
+D DPS Counter
+K counter
+$ENDCMP
+#
+$CMP DELAY
+D Debouncer, 6 msec
+K debounce
+$ENDCMP
+#
+$CMP FF-1AS,1ER
+D Flip flop with 1 clocked set, 1 async set, 1 async reset
+K flip flop
+$ENDCMP
+#
+$CMP FF-1CS,1AR
+D Flip flop with 1 clocked set, 1 async reset
+K flip flop
+$ENDCMP
+#
+$CMP FF-1CS,1AS,1AR
+D Flip flop with 1 clocked set, 1 async set, 1 async reset
+K flip flop
+$ENDCMP
+#
+$CMP FF-1CS,2AR
+D Flip flop with 1 clocked set, 1 async set, 1 async reset
+K flip flop
+$ENDCMP
+#
+$CMP FridenTransformer
+D Power transformer in Friden 130 calculator
+K power transformer
+$ENDCMP
+#
+$CMP LM234
+D 3-Terminal adjustable current source
+K current source
+F http://www.ti.com/lit/ds/symlink/lm134.pdf
+$ENDCMP
+#
+$CMP NAND
+D Discrete NAND gate
+K nand
+$ENDCMP
+#
+$CMP NOT
+D NOT gate
+K not
+$ENDCMP
+#
+#End Doc Library
